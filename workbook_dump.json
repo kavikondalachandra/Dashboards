@@ -1,0 +1,813 @@
+{
+  "Executive Summary & KPIs": [
+    [
+      "INDIA EV BATTERY SUSTAINABILITY & EPR FINANCIAL MODEL (2026–2030)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Version 1.0 | Grounded in BWMR 2022/2025 Rules, CPCB Guidelines, NITI Aayog & Industry Data",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "KEY EXECUTIVE METRICS & NATIONAL TARGETS",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "2030 Recyclable Battery Volume",
+      128,
+      "GWh",
+      "Cumulative nationwide EOL batteries (NITI Aayog)",
+      null,
+      null,
+      null
+    ],
+    [
+      "Current Battery Recycling Gap",
+      40,
+      "x",
+      "Capacity expansion required to process 2030 volumes",
+      null,
+      null,
+      null
+    ],
+    [
+      "FY2028 OEM EPR Collection Obligation",
+      0.7,
+      "70%",
+      "Mandatory EPR target under BWMR 2022/2025",
+      null,
+      null,
+      null
+    ],
+    [
+      "CPCB Lithium ECC Ceiling Price",
+      2400,
+      "₹/kg",
+      "Environmental Compensation Charge for Lithium",
+      null,
+      null,
+      null
+    ],
+    [
+      "Recycled Content Mandate (FY2028)",
+      0.05,
+      "5%",
+      "Min. domestically recycled minerals in new batteries",
+      null,
+      null,
+      null
+    ],
+    [
+      "Black Mass Value Leaked (Annual)",
+      300,
+      "₹ Cr",
+      "Value of unrefined cobalt/lithium/nickel exported",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "EPR ROADMAP & RECYCLING MANDATES TIMELINE (FY2025–FY2031)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Fiscal Year",
+      "EPR Collection Target (%)",
+      "Mandatory Recovery Rate (%)",
+      "Mandatory Recycled Content (%)",
+      "Key Compliance Milestone",
+      "ECC Penalty Enforcement",
+      "Primary Risk Factor"
+    ],
+    [
+      "FY 2024–25",
+      0,
+      0.7,
+      0,
+      "70% dry weight metal recovery required",
+      "Active",
+      "Inadequate collection channels"
+    ],
+    [
+      "FY 2025–26",
+      0.25,
+      0.8,
+      0,
+      "25% weight EPR collection target begins",
+      "Active",
+      "Informal sector leakage"
+    ],
+    [
+      "FY 2026–27",
+      0.35,
+      0.9,
+      0,
+      "90% metal recovery benchmark enforced",
+      "Active",
+      "Black mass export drain"
+    ],
+    [
+      "FY 2027–28",
+      0.7,
+      0.9,
+      0.05,
+      "70% EPR collection + 5% recycled content",
+      "Strict Fines",
+      "CPCB portal audit mismatch"
+    ],
+    [
+      "FY 2028–29",
+      0.7,
+      0.9,
+      0.1,
+      "EPR Credit Trading platform scaling",
+      "Strict Fines",
+      "High EPR credit floor prices"
+    ],
+    [
+      "FY 2029–30",
+      0.7,
+      0.9,
+      0.15,
+      "128 GWh EOL waste surge; urban mining peak",
+      "Strict Fines",
+      "Capacity deficit in hydro-refining"
+    ],
+    [
+      "FY 2030–31",
+      0.7,
+      0.9,
+      0.2,
+      "20% domestic recycled mineral mandate",
+      "Legal Prosecution",
+      "Secondary supply bottleneck"
+    ]
+  ],
+  "State Infrastructure Tracker": [
+    [
+      "STATE-BY-STATE BATTERY RECYCLING INFRASTRUCTURE & CAPACITY MATRIX",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Data Source: CPCB Portal Registrations, NITI Aayog & DIYguru Industry Report 2026",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "State / Union Territory",
+      "Registered Units (Nos)",
+      "Authorized Capacity (MTA)",
+      "National Capacity Share (%)",
+      "Anchor Operators & Key Facilities",
+      "Regional Cluster Role",
+      "Infrastructure Status"
+    ],
+    [
+      "Uttar Pradesh & Uttarakhand",
+      89,
+      494042.7,
+      "=IFERROR(C5/$C$15, 0)",
+      "Lohum Cleantech (Greater Noida), Attero, BatX",
+      "North Hub / Hydro-Refining",
+      "Established Hub"
+    ],
+    [
+      "Karnataka",
+      71,
+      419056,
+      "=IFERROR(C6/$C$15, 0)",
+      "AIMS Energy Solutions, Urban E-Waste Recyclers",
+      "South Tech & R&D Hub",
+      "Established Hub"
+    ],
+    [
+      "Haryana",
+      42,
+      124281.6,
+      "=IFERROR(C7/$C$15, 0)",
+      "Exigo Recycling (Panipat)",
+      "NCR Assembly & Dismantling",
+      "Growing Cluster"
+    ],
+    [
+      "Maharashtra",
+      116,
+      106280.5,
+      "=IFERROR(C8/$C$15, 0)",
+      "LICO Materials, Eco Recycling (Vasai)",
+      "West Port-Linked Cluster",
+      "Established Hub"
+    ],
+    [
+      "Telangana",
+      16,
+      91563,
+      "=IFERROR(C9/$C$15, 0)",
+      "SungEel Hitech India, Attero Expansion",
+      "South Central Logistics",
+      "Expanding"
+    ],
+    [
+      "Rajasthan",
+      23,
+      83254,
+      "=IFERROR(C10/$C$15, 0)",
+      "Gravita India (Jaipur)",
+      "Smelting & Pyro-Processing",
+      "Established Hub"
+    ],
+    [
+      "Gujarat",
+      33,
+      45000,
+      "=IFERROR(C11/$C$15, 0)",
+      "Rubamin, ACE Green (Mundra), Tata Chemicals",
+      "Chemical Refining & Black Mass",
+      "High Growth Hub"
+    ],
+    [
+      "Tamil Nadu",
+      32,
+      35000,
+      "=IFERROR(C12/$C$15, 0)",
+      "TES-AMM (Sriperumbudur)",
+      "Auto OEM Recycling Hub",
+      "Growing Cluster"
+    ],
+    [
+      "West Bengal & Odisha",
+      18,
+      22000,
+      "=IFERROR(C13/$C$15, 0)",
+      "Local E-Waste Dismantlers",
+      "East Regional Cluster",
+      "Emerging"
+    ],
+    [
+      "Other States & UTs",
+      45,
+      30000,
+      "=IFERROR(C14/$C$15, 0)",
+      "Regional Authorized Collection Units",
+      "Distributed Collection",
+      "Initial Stage"
+    ],
+    [
+      "TOTAL AUTHORIZED INDIA CAPACITY",
+      "=SUM(B5:B14)",
+      "=SUM(C5:C14)",
+      "=SUM(D5:D14)",
+      "All CPCB Registered Battery Units",
+      "National Total",
+      "Active"
+    ]
+  ],
+  "ECC & EPR Pricing Engine": [
+    [
+      "CPCB ENVIRONMENTAL COMPENSATION CHARGES (ECC) & EPR CREDIT PRICING ENGINE",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Official CPCB Formula: ECC Total = Base Collection Cost (₹70/kg) + Processing Cost (₹/kg) | Credit Trading Band: 30% to 100% ECC",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "CPCB BASE STATUTORY ASSUMPTIONS",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Base Collection & Transport Cost (₹/kg)",
+      70,
+      "Fixed CPCB transport baseline across all battery metals",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "EPR Credit Floor Price (% of ECC)",
+      0.3,
+      "Minimum trading floor set by BWMR guidelines",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "EPR Credit Ceiling Price (% of ECC)",
+      1,
+      "Maximum trading ceiling (100% of ECC)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "METAL-WISE CPCB ECC & EPR CREDIT TRADING BAND (PER KG OF RECOVERED METAL)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Critical Metal",
+      "Processing Cost (₹/kg)",
+      "Collection Cost (₹/kg)",
+      "Total CPCB ECC (₹/kg)",
+      "EPR Floor Price (₹/kg)",
+      "EPR Ceiling Price (₹/kg)",
+      "Primary Battery Chemistry Source"
+    ],
+    [
+      "Lithium (Li)",
+      2330,
+      "=$B$5",
+      "=B11+C11",
+      "=D11*$B$6",
+      "=D11*$B$7",
+      "LFP, NMC, LCO, LMO"
+    ],
+    [
+      "Cobalt (Co)",
+      485,
+      "=$B$5",
+      "=B12+C12",
+      "=D12*$B$6",
+      "=D12*$B$7",
+      "NMC, LCO"
+    ],
+    [
+      "Nickel (Ni)",
+      485,
+      "=$B$5",
+      "=B13+C13",
+      "=D13*$B$6",
+      "=D13*$B$7",
+      "NMC, NCA"
+    ],
+    [
+      "Manganese (Mn)",
+      485,
+      "=$B$5",
+      "=B14+C14",
+      "=D14*$B$6",
+      "=D14*$B$7",
+      "NMC, LMO"
+    ],
+    [
+      "Copper (Cu)",
+      200,
+      "=$B$5",
+      "=B15+C15",
+      "=D15*$B$6",
+      "=D15*$B$7",
+      "Anode Current Collectors (All Li-ion)"
+    ],
+    [
+      "Aluminium (Al)",
+      50,
+      "=$B$5",
+      "=B16+C16",
+      "=D16*$B$6",
+      "=D16*$B$7",
+      "Cathode Current Collectors (All Li-ion)"
+    ],
+    [
+      "Iron (Fe)",
+      50,
+      "=$B$5",
+      "=B17+C17",
+      "=D17*$B$6",
+      "=D17*$B$7",
+      "LFP Structural & Cathode Material"
+    ]
+  ],
+  "OEM EPR Compliance Calculator": [
+    [
+      "OEM EXTENDED PRODUCER RESPONSIBILITY (EPR) OBLIGATION & COST CALCULATOR",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Interactive Compliance Model: Compute annual battery weight obligations and EPR credit liabilities (FY26–FY30)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "1. OEM VEHICLE SALES & BATTERY PLACEMENT ASSUMPTIONS (INPUT EDITABLE)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Annual EV 2W Sales Placed on Market (Units)",
+      150000,
+      "Avg battery pack weight: 15 kg (2.5 kWh)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Annual EV 3W Sales Placed on Market (Units)",
+      50000,
+      "Avg battery pack weight: 40 kg (5.0 kWh)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Annual EV 4W Sales Placed on Market (Units)",
+      25000,
+      "Avg battery pack weight: 300 kg (35.0 kWh)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Annual EV Bus Sales Placed on Market (Units)",
+      1200,
+      "Avg battery pack weight: 1,800 kg (200 kWh)",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Weighted Blended Metal EPR Credit Price (Floor) (₹/kg)",
+      350,
+      "Blended credit price across Li/Co/Ni/Cu/Al",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Weighted Blended Metal EPR Credit Price (Ceiling) (₹/kg)",
+      950,
+      "Upper bound credit price for compliance",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "2. TOTAL BATTERY WEIGHT PLACED ON MARKET ANNUALLY",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Total Battery Mass Placed (Metric Tonnes)",
+      "=(B5*15 + B6*40 + B7*300 + B8*1800)/1000",
+      "Sum of 2W (15kg) + 3W (40kg) + 4W (300kg) + Bus (1800kg) pack weights",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "3. 5-YEAR EPR OBLIGATION & COMPLIANCE COST PROJECTIONS (FY2026–FY2030)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Fiscal Year",
+      "BWMR EPR Target (%)",
+      "Mandatory Collection Obligation (MTA)",
+      "Required Recycling Weight (kg)",
+      "EPR Cost at Floor Price (₹ Cr)",
+      "EPR Cost at Ceiling Price (₹ Cr)",
+      "Potential CPCB Fine if Non-Compliant"
+    ],
+    [
+      "FY 2025–26",
+      0.25,
+      "=$B$14*B17",
+      "=C17*1000",
+      "=(D17*$B$9)/10000000",
+      "=(D17*$B$10)/10000000",
+      "100% ECC Fine + ₹1 Lakh/day"
+    ],
+    [
+      "FY 2026–27",
+      0.35,
+      "=$B$14*B18",
+      "=C18*1000",
+      "=(D18*$B$9)/10000000",
+      "=(D18*$B$10)/10000000",
+      "100% ECC Fine + ₹1 Lakh/day"
+    ],
+    [
+      "FY 2027–28",
+      0.7,
+      "=$B$14*B19",
+      "=C19*1000",
+      "=(D19*$B$9)/10000000",
+      "=(D19*$B$10)/10000000",
+      "100% ECC Fine + ₹1 Lakh/day"
+    ],
+    [
+      "FY 2028–29",
+      0.7,
+      "=$B$14*B20",
+      "=C20*1000",
+      "=(D20*$B$9)/10000000",
+      "=(D20*$B$10)/10000000",
+      "100% ECC Fine + ₹1 Lakh/day"
+    ],
+    [
+      "FY 2029–30",
+      0.7,
+      "=$B$14*B21",
+      "=C21*1000",
+      "=(D21*$B$9)/10000000",
+      "=(D21*$B$10)/10000000",
+      "100% ECC Fine + ₹1 Lakh/day"
+    ]
+  ],
+  "Recycler Processing Economics": [
+    [
+      "BATTERY RECYCLER ECONOMICS: NMC/LCO VS LFP REFINING MARGINS (PER TONNE)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Comparative Unit Economics for Hydrometallurgical Recycling Facilities in India",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Financial Metric (Per Metric Tonne of EOL Battery)",
+      "NMC 622 / LCO Pack",
+      "LFP Pack",
+      "Variance (NMC vs LFP)",
+      "NMC Revenue Contribution (%)",
+      "LFP Revenue Contribution (%)",
+      "Operational Drivers & Remarks"
+    ],
+    [
+      "EOL Battery Procurement Cost (Gate Price) (₹/t)",
+      120000,
+      35000,
+      "=B5-C5",
+      "-",
+      "-",
+      "Black mass scrap purchase price"
+    ],
+    [
+      "Logistics & Transport Cost (₹/t)",
+      8000,
+      8000,
+      "=B6-C6",
+      "-",
+      "-",
+      "Hazardous material transport"
+    ],
+    [
+      "Mechanical Dismantling & Shredding OPEX (₹/t)",
+      15000,
+      15000,
+      "=B7-C7",
+      "-",
+      "-",
+      "Crushing to Black Mass"
+    ],
+    [
+      "Hydrometallurgical Refining Chemical OPEX (₹/t)",
+      35000,
+      18000,
+      "=B8-C8",
+      "-",
+      "-",
+      "Acid leaching, solvent extraction"
+    ],
+    [
+      "TOTAL PROCESSING COST PER TONNE (₹/t)",
+      "=SUM(B5:B8)",
+      "=SUM(C5:C8)",
+      "=B9-C9",
+      "-",
+      "-",
+      "Total Direct Expenses"
+    ],
+    [
+      "Recovered Lithium Salts Value (₹/t)",
+      85000,
+      42000,
+      "=B10-C10",
+      "=B10/$B$14",
+      "=C10/$C$14",
+      "Li2CO3 / LiOH recovery value"
+    ],
+    [
+      "Recovered Cobalt & Nickel Value (₹/t)",
+      110000,
+      0,
+      "=B11-C11",
+      "=B11/$B$14",
+      "=C11/$C$14",
+      "High value Co/Ni sulphate salts"
+    ],
+    [
+      "Recovered Copper & Aluminium Value (₹/t)",
+      22000,
+      18000,
+      "=B12-C12",
+      "=B12/$B$14",
+      "=C12/$C$14",
+      "Foil current collector recovery"
+    ],
+    [
+      "Monetized EPR Credit Certificate Revenue (₹/t)",
+      35000,
+      15000,
+      "=B13-C13",
+      "=B13/$B$14",
+      "=C13/$C$14",
+      "Sale of EPR credits to OEMs"
+    ],
+    [
+      "GROSS REVENUE RECOVERED PER TONNE (₹/t)",
+      "=SUM(B10:B13)",
+      "=SUM(C10:C13)",
+      "=B14-C14",
+      "-",
+      "-",
+      "Total Realized Value"
+    ],
+    [
+      "NET RECYCLER GROSS MARGIN PER TONNE (₹/t)",
+      "=B14-B9",
+      "=C14-C9",
+      "=B15-C15",
+      "-",
+      "-",
+      "Gross Profit per Tonne"
+    ],
+    [
+      "RECYCLER GROSS MARGIN PERCENTAGE (%)",
+      "=B15/B14",
+      "=C15/C14",
+      "=B16-C16",
+      "-",
+      "-",
+      "Margin %"
+    ]
+  ]
+}
